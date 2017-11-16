@@ -1,1 +1,1 @@
-web: -cors -gzip -p 5000 -enable-url-source
+web: bin/imaginary -cors -enable-url-source -concurrency 20
