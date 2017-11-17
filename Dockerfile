@@ -1,3 +1,3 @@
-FROM h2non/imaginary:1.0.10
+FROM h2non/imaginary:1.0.8
 
 COPY . $GOPATH
